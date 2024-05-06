@@ -86,11 +86,11 @@ margin-left: 68%;
 
   .loader {
     position: relative;
-    width: 32px;
-    height: 33px;
+    width: 33px;
+    height: 34px;
     perspective: 67px;
     margin-left: 71%;
-    margin-top: -28%;
+    margin-top: -26%;
   }
   
   .loader div {
