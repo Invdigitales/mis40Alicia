@@ -145,7 +145,14 @@ margin-left: 68%;
   }
   
  
-
+.parrafoinicio{
+  margin: 15%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 210%;
+    font-family: "Bad Script", cursiva; 
+    margin-top: 20%;
+}
 
 .parrafo1{
   margin: 15%;
@@ -244,66 +251,85 @@ margin-top: -25%;
     font-family: 'Great Vibes', cursive;
     margin-top: -15%;
 }
-.parrafo4{
-  margin: 15%;
-    text-align: center;
-    color:#DA7665;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    font-weight: 500;
-    margin-top: -3%;
+.contenedorD{
+  background-color: #292929;
 }
-
-.parrafo5{
-  margin: 15%;
+.parrafo9{
+  margin-top: -5%;
     text-align: center;
-    color:#F6B3B2;
-    font-size: 224%;
-    font-family: 'Great Vibes', cursive;
-}
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Bad Script", cursiva; 
 
+}
 .parrafo10{
-  margin: 15%;
-    text-align: center;
-    color:#F6B3B2;
-    font-size: 224%;
-    font-family: 'Great Vibes', cursive;
-}
-
-.parrafo6{
-  margin: 16%;
-    text-align: center;
-    color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: -5%;
-}
-.parrafo7{
-  margin: 16%;
-    text-align: center;
-    color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: -5%;
+    margin: 12%;
+      text-align: center;
+      color: #ffffff;
+      font-size: 24px;
+      font-family: "Bad Script", cursiva; 
+  margin-top: -8%;
 }
 .parrafo11{
-  margin: 16%;
+  margin: 12%;
     text-align: center;
-    color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: -5%;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Bad Script", cursiva; 
+    margin-top: 5%;
+
+}
+.parrafo12{
+  margin: 12%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Bad Script", cursiva; 
+margin-top: 24%;
+}
+.parrafoD{
+  text-align: center;
+  font-family: "Alegreya", serif; 
+     font-size: 17px;
+     color: #ffffff;
+     margin-top: 5%;
+     letter-spacing: 2px;
+}
+.parrafo13{
+  margin: 12%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Bad Script", cursiva; 
+margin-top: 20%;
 }
 .regalo{
-  width: 8%;
-  margin-left: 47%;
+  width: 28%;
+  margin-left: 38%;
   margin-top: -19%;
 }
+
 .musica{
-  width: 8%;
-  margin-left: 47%;
-  margin-top: -19%;
+  width: 23%;
+  margin-left: 38%;
+  margin-top: -20%;
 }
+
+.percha{
+  width: 30%;
+  margin-left: 34%;
+  margin-top: -25%;
+}
+
+
+.whasap{
+  
+    width: 30%;
+    margin-left: 35%;
+    margin-top: -19%;
+  
+}
+
 
 .primary{
   margin-left: 35%;
@@ -319,10 +345,10 @@ margin-top: -25%;
   outline: none;
   border-radius: 5px;
   z-index: 0;
-  background: #FBD9D9;
+  background: #F58992;
   overflow: hidden;
-  border: 2px rgb(119, 119, 119);
-  color: rgb(86, 86, 86);
+  border: 2px rgb(244, 229, 229);
+  color: rgb(255, 255, 255);
   
 }
 .contenedorboton{
@@ -330,20 +356,9 @@ margin-top: -25%;
 
 }
 
-.gifmariposas3{
-  width: 8%;
-  margin-left: 48%;
- 
-}
-
-
-.gifmariposas2{
-  width: 12%;
-  margin-left: 45%;
-}
 
 .click2{
-  margin-left: 26%;
+  margin-left: 27%;
   min-width: 130px;
   height: 40px;
   font-family: 25px;
@@ -356,10 +371,10 @@ margin-top: -25%;
   outline: none;
   border-radius: 5px;
   z-index: 0;
-  background: #FBD9D9;
+  background: #F58992;
   overflow: hidden;
-  border: 2px rgb(119, 119, 119);
-  color: rgb(86, 86, 86);
+  border: 2px rgb(244, 229, 229);
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 .esperamos{
@@ -370,14 +385,8 @@ margin-top: -25%;
   font-family: 'Great Vibes', cursive;
   margin-top: 20%;
 }
-.cajamusica{
-margin-top: -10%;
-}
-.morena{
-  width: 25%;
-  margin-left: 36%;
-  margin-top: -10%;
-}
+
+
 }
   
  
